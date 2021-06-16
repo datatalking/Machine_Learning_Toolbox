@@ -16,3 +16,7 @@ Thank you krisburke
 * [Probabilistic Graphical Models (by Prof. Daphne Koller, Stanford)](https://www.coursera.org/specializations/probabilistic-graphical-models) Coursera Specialization or [this Youtube playlist](https://www.youtube.com/watch?v=WPSQfOkb1M8&list=PL50E6E80E8525B59C) if you can't afford the enrollment fee.
 * [Reinforcement Learning Course (by David Silver, DeepMind)](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-) - YouTube playlist and [lecture slides](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html).
 * [Keras in Motion](https://www.manning.com/livevideo/keras-in-motion) $
+* https://spacy.io/usage/spacy-101
+* https://course.spacy.io/en/chapter1
+* https://explosion.ai/blog/deep-learning-formula-nlp
+* https://machinelearningmastery.com/binary-classification-tutorial-with-the-keras-deep-learning-library/
